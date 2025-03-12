@@ -1,0 +1,9 @@
+{
+  "name": "My Cute Cat",
+  "description": "This is a unique CAT on my marketplace.",
+  "image": "ipfs://bafkreiapnoxrfq3umpcqjj4ylbiu62arkp5dxq7c2urbnnvexppdp3ahhe",
+  "attributes": [
+    { "trait_type": "Class", "value": "Real" },
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
+}
